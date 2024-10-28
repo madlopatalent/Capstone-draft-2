@@ -9,6 +9,7 @@ body {
     background-color: #f4f4f9;
     /* display: flex; */
     justify-content: center;
+    background: url('LOGO.jpg') no-repeat center center/cover;
     align-items: center;
     height: 100vh;
 }
